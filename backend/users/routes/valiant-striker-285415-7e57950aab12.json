@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "valiant-striker-285415",
+  "private_key_id": "7e57950aab12987066145e435a962c8b2230872e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDn+IMRra5T1ypo\nmwnlOv42EQulbKbW3tGxxy2nCeiUdNxi2j6XUS9RlN9pv/zSqxDkMCyk0YWuCw+v\nb0k2NfV3OnEKkqHxpU2VcOmQnEYIrYwFXyjRG6tWMw85VV0pZ/Zaf6uWlgc8N8Iz\nFv+q2RkMFTpsQE/ew6sq/bdFv/qhMQZkNhqb7X7V5NE7i7z8OGgz3+XQdEp5uOiu\nuqy6HDnKtqRMG2V9oL1POJwYtef5yhHFyqfNacZZctFcheMgJ+oke5utP5bUrzzc\nGjmJq3w1b/ApgTDBNB+6oJBXYtquD/GNzjX5gjlEY1kg2NHHq/VQOZTYGb6GMW6W\nQ9Yj8ajHAgMBAAECggEAASpD35kGOPXp3h2ikUFYboVrurh5fAx2yX73xpDWV2Hg\n4NQ6H+twopHDWit0hcsF1NzoadQtk4q1rkq6TOiSI4z/wq8AMOUE0efVHHypyLhf\nwtUlW4DZPZ/DB1Aw8sN1aXieWtgaZYiIKVaHu+AcRUMZXdrS1optYn66EW0d6/pU\ncbWjV4wE4GGQgzcshG+Z9DNOTI8DO7QrOzaudvR0bhP+dOq9PdKtEfdbdFIqnSPa\n5wjL48+BvKL1b8njHqBn+N6OEd68Bxf7o8noKovpsEJ2gwcK5yID8u0WOTvykHhi\nZoZyG5NhnvImJ+8giVoVMOG0FHtuxLGKMFKSj7JxjQKBgQD0hWDDeWWVr3lXBheL\nQa2rbfnaTst0QCBWFM+tPUXOtysOTBSKQJXHYt3BkJvzSlTeLQJ+IaVR1nuNDvXG\nUQWVLQFiNph4MeGbTSTxtK6+z/SDwZ/L8b1q25Nj+cxWt2H+sutBP3NR7CAMumyI\nBOy55GPI2DocBnu5AOplacPBcwKBgQDy3E5+yM/o1r/QMEDxWgMcU+PXgShqV51K\nGvU6njZtQRnhxIIhtBksH5yA01EYWg/vX3bzJbDYd4lr52320dYJ1Po0/C8ru0sN\nMPJ2ym0ycGHOiSaJGORuZ0EqCsHV8pJPeWbvhnpV6mTro4NiJUuT2ZN2C+sbE8F3\neQTCTtmWXQKBgQCCwgh6v6JJJ2r11HYmq9qZP9hKm7RE2D3yinJ8K7X20xCdNqYN\nQHhYBVCcwB4FPgygOuWIWam0V8P+LK/Ve2JG4ahJwvRJ4jLI/7nv3zVLKJ2TD6nK\nP92RFRZ+cgiJnssyjq8rVyjt+B0zcUW0fx2wUqfhsW9xqS3kQs8VqDdcbQKBgQCZ\n6K5CQQcp2zayPHJbwhyoji2dfHfddOr0dMMmw+9gK9q4Lm396AHv6ZSoO8Nv+FuS\n6uAaVa+Ob6sCXCdfPTo0/ukWPR+zyj1U/ckbKUwso/YICvkF92WE5iDxAOI4sUKx\n5REsCQBshGAyyWxQ/au45jFCpWj4vvtjuKkgbxIL7QKBgQDtrrTYF/HR28iQ+2US\nMDOfv8PhJEBFeBdNuLsTGMonn90jKLPGA6lVwcP3faEFsAH463bEAKbru/TUO4Oi\nlv9HfowqQQ9i8JfXpzpHEn/O3OMVoqnivuhU5N2UCObkXVURCbbiDx01k2kPkILR\nhi+XOC5TBNTaenthLDn1f9PB+w==\n-----END PRIVATE KEY-----\n",
+  "client_email": "file-upload@valiant-striker-285415.iam.gserviceaccount.com",
+  "client_id": "102881435500547353252",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/file-upload%40valiant-striker-285415.iam.gserviceaccount.com"
+}
